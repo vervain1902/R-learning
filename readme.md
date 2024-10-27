@@ -1,8 +1,9 @@
 # Booknotes of *Saqr & López-Pernas - 2024 - Learning Analytics Methods and Tutorials*
 This is a series of booknotes of *Learning Analytics Methods and Tutorials*.
 
-| Author: LiuZiyu
-| Created Data: 2024/10/27
+> Author: LiuZiyu
+
+> Created Data: 2024/10/27
 
 ## About
 This repo includes R scripts for basic data analysis: 1) An example of data import, data exploration and data cleaning.
